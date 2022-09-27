@@ -1,1 +1,3 @@
-# predicting_alzheimer-s_disease
+# predicting alzheimer's disease<br>
+
+<img src="images/alzheimer.jpg" alt="Healthy Vs Alzheimer's brains" >
