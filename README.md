@@ -37,5 +37,5 @@ An exploratory data analysis will helps us to better understand the data an even
 After analysing the data, creating, training and evaluating the ML model we got the following answers:
 1. The risk of contracting Alzheimer's disease doesn't seem to be closely related to Age.   
   Important notice: Patients whose data has been used where aged from 60 to 98. 
-2. As suggested by the heatmap and model's feature importances, **CDR (Clinical Dementia Ratio)** value is the mediacal measurement to be the most closely monitored.
+2. As suggested by the heatmap and model's feature importances, **CDR (Clinical Dementia Rating)** value is the mediacal measurement to be the most closely monitored.
 3. Our model can predict Alzheimer's disease with an accuracy of 95.5%.
